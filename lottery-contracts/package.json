@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "deploy-lottery": "node scripts/deploy-lottery.js",
+    "deploy-lottery": "node scripts/deploy-inbox.js",
     "test": "jest --watchAll",
     "test:ci": "CI=true jest"
   },
